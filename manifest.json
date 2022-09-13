@@ -1,0 +1,17 @@
+{
+  "icons": [
+    {
+      "src": "./icon_144x144.76bfc0a0d46265d619431e65ba9c6598.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "name": "Dp React App",
+  "short_name": "React App",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "scope": ".",
+  "description": "It is manifest file for dp web application"
+}
